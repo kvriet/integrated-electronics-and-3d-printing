@@ -1,6 +1,6 @@
 # Integrating electronics and 3D printing
-Ideas for integrating electronics and 3D printing
-CC BY-NC
+Ideas for integrating electronics and 3D printing.
+CC BY-NC Katrien van Riet
 
 ## Table of contents
 
@@ -22,7 +22,11 @@ Light guides are pieces of very transparent plastic that uniformly guide light (
 1. Print the light guide tester. This model has holes ranging from 2.2mm - 2.9mm diameter. (or create your own tester)
 (important! print the tester in the same orientation that your prototype hole will be in, so you can test the fit properly)
 2. Insert 1.75mm transparent filament into the tester and see which hole produces the best fit. Use this diameter for the light guides you will use in your prototype.
-3. 
+3. Print your prototype with the holes in it. If your wall thickness is a bit thin (like 1.5mm) and far removed from the LED light source, extrude a 6mm diameter cylinder around the hole down to the LED, and put a 3mm chamfer on that cylinder (see example in 'images --> light guide model bottom'). This gives your filament some stability and reduces bleed from different LED sources, and maintains light intensity.
+4. Insert 1.75mm filament, and cut flat to the surface of your 3D print. Add a bit of superglue on the INSIDE of your print on the light guide filament to secure it. Don't do this on the outside. You will see the superglue dry and this will ruin the look.
+
+### Difference between light guides and regular holes
+
 
 ## Flexure buttons <a name="flexure_buttons"></a>
  
