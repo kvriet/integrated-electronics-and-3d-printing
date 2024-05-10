@@ -9,6 +9,10 @@ CC BY-NC
 
 ## Filament light guides <a name="light_guides"></a>
 
+![Light guide titled](https://github.com/kvriet/integrated-electronics-and-3d-printing/blob/main/images/light%20guide%20filament%20tilted.png)
+![Rotary cutter in action](https://github.com/kvriet/3dprinter-rotary-cutting/blob/main/Media/cutting%20copper.gif?raw=true)
+
+This project adds rotary cutt
 
 ## Flexure buttons <a name="flexure_buttons"></a>
  
