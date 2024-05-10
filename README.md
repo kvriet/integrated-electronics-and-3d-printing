@@ -1,6 +1,5 @@
 # Integrating electronics and 3D printing
-Ideas for integrating electronics and 3D printing.
-CC BY-NC Katrien van Riet
+Ideas for integrating electronics and 3D printing. By Katrien van Riet.
 
 ## Table of contents
 
@@ -33,4 +32,21 @@ Light guides are pieces of very transparent plastic that uniformly guide light (
 ![holes](https://github.com/kvriet/integrated-electronics-and-3d-printing/blob/main/images/light%20guide%20no%20filament%20small.png)
 
 ## Flexure buttons <a name="flexure_buttons"></a>
- 
+
+![Flexure buttons round](https://github.com/kvriet/integrated-electronics-and-3d-printing/blob/main/images/round%20flexure%20button%20print%20small.png)
+
+One way to quickly update the look and feel of a prototype using buttons is to cover those buttons with flexures. These flexures are part of the print, and offer a satisfying, springy experience. And because they are integrated into the print, you get this complexity for free.
+
+### Guide
+There are two main orientations that you can print these flexures in: flat and upright. Both orientations need their own approach. 
+
+1. Flat printing
+Flat printing is the easiest and produces flexure buttons that are resistant to breaking along the printed layer lines (because they flex perpendicular to the layer lines instead of along them).
+
+Here is a simple design:
+
+![flexure button cross section](https://github.com/kvriet/integrated-electronics-and-3d-printing/blob/main/images/round%20flexure%20button%20model%20cross%20section.png)
+
+And here's the side view:
+
+![flexure button side view](https://github.com/kvriet/integrated-electronics-and-3d-printing/blob/main/images/round%20flexure%20button%20model%20side%20view.png)
