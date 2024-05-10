@@ -11,6 +11,8 @@ CC BY-NC Katrien van Riet
 
 ![Light guide titled](https://github.com/kvriet/integrated-electronics-and-3d-printing/blob/main/images/light%20guide%20filament%20tilted%20small.png)
 
+(3D printing files in 'print files' folder)
+
 Light guides are pieces of very transparent plastic that uniformly guide light (often from an LED) to a specific spot in the surface of a product. You have probably seen these in commercially produced products, like the on/off status light on displays, tv's, coffee machines, etc. This project adds cheap light guide functionality to your 3D-printed prototypes by inserting a small piece of 1.75mm (or 2.85mm if you want) transparent filament into a small hole that drops down right to a small (0805 or 0604) surface-mounted LED. These are LED's you often find on microcontrollers. 
 
 ### Materials
