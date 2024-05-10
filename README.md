@@ -42,11 +42,34 @@ There are two main orientations that you can print these flexures in: flat and u
 
 1. Flat printing
 Flat printing is the easiest and produces flexure buttons that are resistant to breaking along the printed layer lines (because they flex perpendicular to the layer lines instead of along them).
+You can vary the thickness and shape of the beam connecting the round button to the rest of the printed part. Narrower beams produce more flexible buttons, and wider beams produce stiffer buttons. You can even change the colour of the top of the button by changing to a different colour of filament. 
 
-Here is a simple design:
+Here is a simple round button design. You can print this one to test out the stiffness of the buttons:
 
 ![flexure button cross section](https://github.com/kvriet/integrated-electronics-and-3d-printing/blob/main/images/round%20flexure%20button%20model%20cross%20section%20-%20small.png)
 
 And here's the side view:
 
 ![flexure button side view](https://github.com/kvriet/integrated-electronics-and-3d-printing/blob/main/images/round%20flexure%20button%20model%20side%20view.png)
+
+Of course your buttons don't need to be round. You can create any shape you want, provided it can be printed flat.
+
+2. Upright printing
+What if you need a flexure button on the side of your print that is printed upright (vertically)? Your printer might not like the buttons described in option 1.
+
+In that case, you can use diamond-shaped buttons. These slant upwards with 45 degree angles, which is within the tolerance of almost all printers, even cheap ones. Make sure that you have enough material connecting the button to the rest of the print, otherwise your button will snap. Also make sure that your flexure button is less than 1mm away from the push button. Otherwise the flexure button will snap off.
+
+Here are two different connector types:
+
+![straight connector](https://github.com/kvriet/integrated-electronics-and-3d-printing/blob/main/images/diamond%20straight%20connector.png)
+![tapered connector](https://github.com/kvriet/integrated-electronics-and-3d-printing/blob/main/images/diamond%20tapered%20connector.png)
+
+And some dimensions:
+
+![diamond dimensions](https://github.com/kvriet/integrated-electronics-and-3d-printing/blob/main/images/diamond%20flexure%20button%20dimensions.png)
+
+Here's a simple diamond button design. You can print this one to test out the stiffness of the buttons:
+
+![diamond model](https://github.com/kvriet/integrated-electronics-and-3d-printing/blob/main/images/diamond%20flexure%20button%20model.png)
+
+
