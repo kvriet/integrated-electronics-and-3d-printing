@@ -59,7 +59,7 @@ What if you need a flexure button on the side of your print that is printed upri
 
 In that case, you can use diamond-shaped buttons. These slant upwards with 45 degree angles, which is within the capabilities of almost all printers, even cheap ones. Make sure that you have enough material connecting the button to the rest of the print, otherwise your button will snap. For the same reason, make sure that your flexure button is less than 1mm away from the push button. As this model is printed vertically, it is more difficult to give the buttons a change in colour because you cannot change the filament at a certain layer height.
 
-Here's a simple diamond button design. You can print this one to test out the stiffness of the buttons:
+Here's a simple diamond button design. You can print this one to test out the stiffness of the buttons. Note: this model should be printed with a very big brim:
 
 ![diamond model](https://github.com/kvriet/integrated-electronics-and-3d-printing/blob/main/images/diamond%20flexure%20button%20model%20upright.png)
 
