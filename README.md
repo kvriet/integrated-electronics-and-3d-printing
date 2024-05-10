@@ -59,10 +59,9 @@ What if you need a flexure button on the side of your print that is printed upri
 
 In that case, you can use diamond-shaped buttons. These slant upwards with 45 degree angles, which is within the tolerance of almost all printers, even cheap ones. Make sure that you have enough material connecting the button to the rest of the print, otherwise your button will snap. Also make sure that your flexure button is less than 1mm away from the push button. Otherwise the flexure button will snap off.
 
-Here are two different connector types:
+Here are two different connector types. The one on the left has more chance of breaking at the connector:
 
-![straight connector](https://github.com/kvriet/integrated-electronics-and-3d-printing/blob/main/images/diamond%20straight%20connector.png)
-![tapered connector](https://github.com/kvriet/integrated-electronics-and-3d-printing/blob/main/images/diamond%20tapered%20connector.png)
+![straight connector](https://github.com/kvriet/integrated-electronics-and-3d-printing/blob/main/images/diamond%20connectors.png)
 
 And some dimensions:
 
