@@ -26,7 +26,8 @@ Light guides are pieces of very transparent plastic that uniformly guide light (
 4. Insert 1.75mm filament, and cut flat to the surface of your 3D print. Add a bit of superglue on the INSIDE of your print on the light guide filament to secure it. Don't do this on the outside. You will see the superglue dry and this will ruin the look.
 
 ### Difference between light guides and regular holes
-
+![holes] (https://github.com/kvriet/integrated-electronics-and-3d-printing/blob/main/images/light%20guide%20no%20filament%20small.png)
+![filament] (https://github.com/kvriet/integrated-electronics-and-3d-printing/blob/main/images/light%20guide%20filament%20tilted.png)
 
 ## Flexure buttons <a name="flexure_buttons"></a>
  
