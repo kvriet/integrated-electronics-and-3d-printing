@@ -57,7 +57,7 @@ Of course your buttons don't need to be round. You can create any shape you want
 #### 2. Upright printing
 What if you need a flexure button on the side of your print that is printed upright (vertically)? Your printer might not like the buttons described in option 1.
 
-In that case, you can use diamond-shaped buttons. These slant upwards with 45 degree angles, which is within the tolerance of almost all printers, even cheap ones. Make sure that you have enough material connecting the button to the rest of the print, otherwise your button will snap. Also make sure that your flexure button is less than 1mm away from the push button. Otherwise the flexure button will snap off. As this model is printed vertically, it is more difficult to give the buttons a change in colour because you cannot change the filament at a certain layer height.
+In that case, you can use diamond-shaped buttons. These slant upwards with 45 degree angles, which is within the capabilities of almost all printers, even cheap ones. Make sure that you have enough material connecting the button to the rest of the print, otherwise your button will snap. For the same reason, make sure that your flexure button is less than 1mm away from the push button. As this model is printed vertically, it is more difficult to give the buttons a change in colour because you cannot change the filament at a certain layer height.
 
 Here's a simple diamond button design. You can print this one to test out the stiffness of the buttons:
 
