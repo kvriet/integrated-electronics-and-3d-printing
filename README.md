@@ -45,7 +45,7 @@ Flat printing is the easiest and produces flexure buttons that are resistant to 
 
 Here is a simple design:
 
-![flexure button cross section](https://github.com/kvriet/integrated-electronics-and-3d-printing/blob/main/images/round%20flexure%20button%20model%20cross%20section.png)
+![flexure button cross section](https://github.com/kvriet/integrated-electronics-and-3d-printing/blob/main/images/round%20flexure%20button%20model%20cross%20section%20-%20small.png)
 
 And here's the side view:
 
