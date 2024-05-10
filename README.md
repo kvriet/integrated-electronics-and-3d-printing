@@ -1,6 +1,5 @@
 # Integrating electronics and 3D printing
-Ideas for integrating electronics and 3D printing.
-By Katrien van Riet
+Ideas for integrating electronics and 3D printing. By Katrien van Riet.
 
 ## Table of contents
 
@@ -46,3 +45,8 @@ Flat printing is the easiest and produces flexure buttons that are resistant to 
 
 Here is a simple design:
 
+![flexure button cross section](https://github.com/kvriet/integrated-electronics-and-3d-printing/blob/main/images/round%20flexure%20button%20model%20cross%20section.png)
+
+And here's the side view:
+
+![flexure button side view](https://github.com/kvriet/integrated-electronics-and-3d-printing/blob/main/images/round%20flexure%20button%20model%20side%20view.png)
